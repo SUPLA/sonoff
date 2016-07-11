@@ -3,6 +3,7 @@ SUPLA FOR ITEAD SONOFF WiFi Smart Switch
 
 Youtube: 
    https://www.youtube.com/watch?v=jO9yX2QVeoY
+   
    https://www.youtube.com/watch?v=Wzjhv_rwPAo
 
 Firmware: 
